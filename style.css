@@ -35,7 +35,7 @@ div.yellow {
 
 .visible {
   display: block;
-  border: 3px black dashed;
+  border: 10px black dashed;
   border-radius: 0;
   background-color: white;
 }
